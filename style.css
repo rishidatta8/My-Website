@@ -13,17 +13,17 @@ div
 .top-cloud
 {
   position: absolute;
-  left: 66%;
-  top: 15%;
+  left: 1000px;
+  top: 100px;
 }
 .text1
 {
-  font-size: 22px;
+  font-size: 137.5%;
 }
 h1
 {
   margin-top: 0;
-  font-size: 80px;
+  font-size: 500%;
 font-family: 'Schoolbell', cursive;
 }
 body
@@ -35,8 +35,8 @@ body
 .bottom-cloud
 {
   position: absolute;
-  left: 20%;
-  top: 43%;
+  left: 300px;
+  top: 370px;
 }
 .mountain
 {
