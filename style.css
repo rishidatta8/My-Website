@@ -31,6 +31,8 @@ a
   left: 66%;
   top: 15%;
 }
+
+.
 .text1
 {
   font-size: 137.5%;
@@ -109,9 +111,9 @@ body
 }
 .bottom-cloud
 {
-  position: absolute;
+  position: relative;
   left: 20%;
-  top: 45%;
+  top: 350px;
 }
 .mountain
 {
